@@ -1,2 +1,2 @@
 # lazyload-api
-lazyload content from an API or Array
+lazyload content from an Array
